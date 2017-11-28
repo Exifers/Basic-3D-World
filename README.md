@@ -8,7 +8,7 @@ You need processing to run it (https://processing.org/). This is a language base
 You can control the camera with the mouse. Use ZQSD to move. Quit with escape key.
 
 # Licence
-You're free to copy and use this code the way you want.
+You're free to copy and use this code the way you want. Images origin is doubtful.
 
 # Author
 Emmanuel aka Exifers
